@@ -1,0 +1,508 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ent",
+				"entity"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"thi",
+				"this"
+			],
+			[
+				"pr",
+				"printing"
+			],
+			[
+				"chec",
+				"check"
+			],
+			[
+				"last",
+				"lastpos"
+			],
+			[
+				"UP",
+				"ig.KEY.UP_ARROW"
+			],
+			[
+				"an",
+				"animSheet"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"Y",
+				"y"
+			],
+			[
+				"ig",
+				"ige	Defines an Impact entity."
+			],
+			[
+				"MOUSE",
+				"ig.KEY.MOUSE1"
+			],
+			[
+				"_wm",
+				"_wmBoxColor"
+			],
+			[
+				"_w",
+				"_wmDrawBox"
+			],
+			[
+				"ps",
+				"Pspawnx"
+			],
+			[
+				"spa",
+				"spawnlocationy"
+			],
+			[
+				"coll",
+				"collideWith"
+			],
+			[
+				"Lef",
+				"LeftAttack"
+			],
+			[
+				"right",
+				"RightAttack"
+			],
+			[
+				"do",
+				"DownAttack"
+			],
+			[
+				"up",
+				"UpAttack"
+			],
+			[
+				"left",
+				"LeftIdle"
+			],
+			[
+				"dow",
+				"DownIdle"
+			],
+			[
+				"rig",
+				"RightIdle"
+			],
+			[
+				"id",
+				"LeftIdle"
+			],
+			[
+				"Left",
+				"LeftWalk"
+			],
+			[
+				"anims",
+				"anims"
+			],
+			[
+				"R",
+				"RightWalk"
+			],
+			[
+				"Down",
+				"DownWalk"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"anim",
+				"animSheet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/game/entities/donothing.js",
+			"settings":
+			{
+				"buffer_size": 464,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/game/entities/trigger.js",
+			"settings":
+			{
+				"buffer_size": 686,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/game/entities/player.js",
+			"settings":
+			{
+				"buffer_size": 1951,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/game/entities/levelchange.js",
+			"settings":
+			{
+				"buffer_size": 610,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/game/entities/moveplayer.js",
+			"settings":
+			{
+				"buffer_size": 556,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/game/main.js",
+			"settings":
+			{
+				"buffer_size": 1390,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"pacac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 380.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Odin/Downloads/UniServerZ/www/now/impact/lib/game/entities/levelchange.js",
+		"/C/Users/Odin/Downloads/UniServerZ/www/now/impact/lib/game/entities/kill.js",
+		"/C/Users/Odin/Downloads/UniServerZ/www/now/impact/lib/game/entities/trigger.js",
+		"/C/Users/Odin/Downloads/UniServerZ/www/now/impact/lib/game/entities/disp.js",
+		"/C/Users/Odin/Downloads/UniServerZ/www/now/impact/lib/game/entities/choice.js",
+		"/C/Users/Odin/Downloads/UniServerZ/www/now/impact/lib/game/entities/player.js",
+		"/C/Users/Odin/Downloads/UniServerZ/www/now/impact/lib/game/main.js",
+		"/C/Users/Odin/Downloads/jumpnrun/jumpnrun/lib/game/entities/trigger.js",
+		"/C/Users/Odin/Downloads/UniServerZ/www/now/impact/lib/game/entities/guy.js",
+		"/C/Users/Odin/Downloads/UniServerZ/www/impact/lib/game/entities/guy.js",
+		"/C/Users/Odin/Downloads/impact-1.23/impact/lib/game/main.js",
+		"/C/Users/Odin/Downloads/jumpnrun/jumpnrun/lib/game/entities/fireball.js",
+		"/C/Users/Odin/Downloads/jumpnrun/jumpnrun/lib/game/entities/player.js",
+		"/C/Users/Odin/Downloads/jumpnrun/LICENSE.TXT",
+		"/C/Users/Odin/Downloads/UniServerZ/www/Dualstick/impact/lib/game/entities/bullet",
+		"/C/Users/Odin/Downloads/UniServerZ/www/impact/lib/game/entities/sign.js",
+		"/C/Users/Odin/AppData/Local/Microsoft/Windows/INetCache/IE/U4SROBC1/debris[1].js",
+		"/C/Users/Odin/AppData/Local/Microsoft/Windows/INetCache/IE/T8LMB36H/trigger[1].js",
+		"/C/Users/Odin/Downloads/UniServerZ/www/impact/lib/game/entities/trigger.js",
+		"/C/Users/Odin/Downloads/UniServerZ/www/impact/lib/game/entities/door.js",
+		"/C/Users/Odin/Downloads/UniServerZ/www/impact/lib/game/main.js",
+		"/C/Users/Odin/AppData/Local/Microsoft/Windows/INetCache/IE/P5GJWBLV/debris[1].js",
+		"/C/Users/Odin/Downloads/UniServerZ/www/impact/lib/game/entities/npc.js",
+		"/C/Users/Odin/AppData/Local/Microsoft/Windows/INetCache/IE/1HT03MQ2/trigger[1].js",
+		"/C/Users/Odin/Downloads/UniServerZ/www/impact/lib/game/playerProperties.js",
+		"/C/Users/Odin/Downloads/jumpnrun (1)/jumpnrun/lib/game/entities/levelchange.js",
+		"/C/Users/Odin/Downloads/jumpnrun (1)/jumpnrun/lib/game/entities/trigger.js",
+		"/C/Users/Odin/Downloads/UniServerZ/www/impact/lib/game/entities/nps.js"
+	],
+	"find":
+	{
+		"height": 75.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Odin\\Downloads\\UniServerZ\\www\\now\\impact\\lib"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"controls",
+			"b",
+			"    	{",
+			"a"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/game/entities/donothing.js",
+					"settings":
+					{
+						"buffer_size": 464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ImpactJS/ImpactJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/game/entities/trigger.js",
+					"settings":
+					{
+						"buffer_size": 686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ImpactJS/ImpactJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/game/entities/player.js",
+					"settings":
+					{
+						"buffer_size": 1951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ImpactJS/ImpactJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/game/entities/levelchange.js",
+					"settings":
+					{
+						"buffer_size": 610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ImpactJS/ImpactJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 7.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/game/entities/moveplayer.js",
+					"settings":
+					{
+						"buffer_size": 556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								556,
+								556
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ImpactJS/ImpactJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/game/main.js",
+					"settings":
+					{
+						"buffer_size": 1390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								504,
+								510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ImpactJS/ImpactJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}

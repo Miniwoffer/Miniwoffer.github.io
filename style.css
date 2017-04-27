@@ -1,0 +1,94 @@
+body{
+    background-color: #161f2a;
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+    color: #fff;
+    text-align: center;
+}
+@media (max-width:1300px) { body{font-size: 7px;}}
+@media (max-width:890px) { body{font-size: 5px;}}
+@media (min-width:1300px) {body{font-size: 10px;}} 
+h1{
+    font-size: 3.5em;
+    margin-bottom: 1em;
+}
+h2{
+    margin-top:0px;
+    margin-top:0px;
+    font-size: 6.5em;
+    font-weight:900;
+}
+.Buttons{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #fff;
+    text-align: center;
+    font-weight:900;
+    font-size: 3.5em;
+    display: inline-block;
+    width: 9em;
+    padding-top: 3.8em;
+    padding-bottom: 3.8em;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.Buttons:hover{
+    color:#000;
+    background-color: #882e2e !important;
+}
+.footer{
+    margin-top: 3em;
+    font-size: 2em;
+}
+#cpp{
+    background-color: #99ad1b
+}
+#csharp{
+    background-color: #1b6aad
+}
+#js{
+    background-color: #ce5900
+}
+#as{
+    background-color: #382f86
+}
+#github{
+background-color: #56896e;
+top: 0px;
+}
+#exercism{
+background-color: #d81d4e;
+top: 5em;
+}
+.extLinkbutton
+{
+    position: absolute;
+    left: 0px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    width: 24em;
+}
+.extLinkbutton img{
+    height: 3em;
+}
+.extLinkbutton:hover{
+    color:#000;
+    background-color: #882e2e !important;
+}
+.extLinkbutton:hover img{
+   -webkit-filter: invert(1);
+}
+
+.cvlink{
+    cursor: pointer;
+    font-size: 2em;
+}
+.cvlink a{
+    text-decoration:none;
+    color: #fff;
+}
+.cvlink a:hover{
+    color: #882e2e;
+}
+
+

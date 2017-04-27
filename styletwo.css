@@ -1,0 +1,100 @@
+body
+{
+    font-family: Helvetica, sans-serif;
+    color: #fff;
+    text-align: center;
+    background-color: #161f2a;
+    margin:0;
+}
+@media (max-width:1300px) { body{font-size: 7px;}}
+@media (max-width:890px) { body{font-size: 5px;}}
+@media (min-width:1300px) {body{font-size: 10px;}} 
+
+#portfoliolist 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#portfoliolist li
+{
+    float: left;
+    width: 19%;
+    margin: 0.5%;
+}
+#portfoliolist li a
+{
+    font-size: 2em;
+    text-decoration: none;
+    color:#fff;
+    height: 150px;
+    display: block;
+    padding: 2em;
+    margin: 0;
+    cursor: pointer;
+    overflow: hidden;
+}
+#portfoliolist li a:hover
+{
+    color:#000;
+    background-color: #882e2e;
+}
+#portfoliolist li a:hover img
+{
+    -webkit-filter: grayscale(1);
+}
+#portfoliolist li a img
+{
+    height: 7.3em;
+}
+#portfoliolist li a p
+{
+    margin:0em;
+}
+.colorindicator
+{
+    float: left;
+    width: 100%;
+    font-size: 7em;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-bottom: 0.5%;
+}
+.backbt
+{
+    background-color: rgba(1,1,1,0.3);
+    text-decoration: none;
+    color:#fff;
+    font-size: 3em;
+    position: absolute;
+    margin-left: 1em;
+    display: block;
+    left: em;
+    top: 0.5em;
+    padding: 1em;
+    cursor: pointer;
+    /*border:2px solid #fff;*/
+}
+.backbt:hover
+{
+    color:#000;
+    border-color: #000;
+    background-color:#882e2e;
+}
+.cpp a
+{
+    background-color: #99ad1b;
+}
+.js a
+{
+    background-color: #ce5900;
+}
+.as a
+{
+    background-color: #382f86;
+}
+.cs a
+{
+    background-color: #1b6aad;
+}
